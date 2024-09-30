@@ -2,3 +2,5 @@ a.exe
 *.o
 *.out
 .vscode
+.cph
+*.txt
